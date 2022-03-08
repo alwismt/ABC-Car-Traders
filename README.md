@@ -111,9 +111,6 @@ all the connection strings with SQL server.
 ![Logo](https://raw.githubusercontent.com/alwismt/ABC-Car-Traders/main/Assets/logo1.png)
 
 
-## Video Demonstration
-
-[Video Demonstration](https://drive.google.com/file/d/1LkE-5j7z8-Unk7DMdpJyEHRnj6jgD3Zb/view)
 
 
 ## Author
