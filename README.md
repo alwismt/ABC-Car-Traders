@@ -122,5 +122,5 @@ all the connection strings with SQL server.
 
 During my work experience at ABC Car Traders, I was fortunate enough to have experienced firsthand and learned many different sides of what goes into a project, the general process of how a project is initially planned, developed and completed; as well as how much work and detail goes into every stage. Another valuable lesson I have learned during these project. 
 
-If you have any feedback, please reach out to me at alwismt@gmail.com
+If you have any feedback, please reach out to me at via github
 
